@@ -1,0 +1,24 @@
+{
+  "name": "voluntalk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "babel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccviolett/voluntalk_web_fontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccviolett/voluntalk_web_fontend/issues"
+  },
+  "homepage": "https://github.com/ccviolett/voluntalk_web_fontend#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2"
+  }
+}
