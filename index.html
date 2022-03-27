@@ -13,70 +13,31 @@
 
 <body class="mdui-appbar-with-tab mdui-appbar-with-toolbar mdui-bottom-nav-fixed">
 
-    <div class="mdui-appbar mdui-appbar-fixed mdui-color-white">
-        <div class="mdui-tab mdui-tab-scrollable mdui-tab-centered" mdui-tab>
-            <a href="#communicate-new-tab" class="mdui-ripple">最新</a>
-            <a href="#communicate-popular-tab" class="mdui-ripple">最热</a>
-            <a href="#communicate-random-tab" class="mdui-ripple">随机</a>
-        </div>
-
-        <div class="mdui-textfield mdui-textfield-expandable mdui-center">
-            <button class="mdui-textfield-icon mdui-btn mdui-btn-icon">
-                <i class="mdui-icon material-icons">search</i>
-            </button>
-            <input class="mdui-textfield-input" type="text" placeholder="Search" />
-            <button class="mdui-textfield-close mdui-btn mdui-btn-icon">
-                <i class="mdui-icon material-icons">close</i>
-            </button>
-        </div>
-
-    </div>
-
     <style>
         .mdui-card-media img {
             height: 200px;
         }
+
         img {
             object-fit: cover;
         }
+
         .mdui-card {
             margin-top: 10px;
         }
     </style>
 
-    <div class="mdui-container-fluid mdui-typo">
-        <div id="communicate-new-tab"> </div>
+    <div class="mdui-container-fluid mdui-typo" id="page-div">
 
-        <div id="communicate-popular-tab">正在开发中……</div>
-        <div id="communicate-random-tab">正在开发中……</div>
     </div>
 
-    <div class="mdui-bottom-nav mdui-bottom-nav-text-auto mdui-color-white">
-        <a href="#test-tab1">
-            <i class="mdui-icon material-icons">local_drink</i>
-            <label>生活</label>
-        </a>
-        <a href="#test-tab2">
-            <i class="mdui-icon material-icons">border_color</i>
-            <label>提问</label>
-        </a>
-        <a href="javascript:;" class="mdui-bottom-nav-active">
-            <i class="mdui-icon material-icons">question_answer</i>
-            <label>沟通</label>
-        </a>
-        <a href="javascript:;">
-            <i class="mdui-icon material-icons">favorite</i>
-            <label>精选</label>
-        </a>
-        <a href="javascript:;">
-            <i class="mdui-icon material-icons">face</i>
-            <label>我的</label>
-        </a>
+    <div id="bottom-div">
     </div>
 
     <div id="test"></div>
 
     <script src="https://cdn.jsdelivr.net/npm/mdui@1.0.2/dist/js/mdui.min.js"></script>
+
     <script src="https://unpkg.com/react@16/umd/react.development.js" crossorigin></script>
     <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js" crossorigin></script>
     <script src="voluntalk_common.js"></script>
