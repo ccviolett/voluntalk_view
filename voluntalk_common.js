@@ -143,14 +143,14 @@ function CardCollection() {
         null,
         React.createElement(Card, {
             name: "\u7F57\u6F47\u9633",
-            avatar: "https://s2.loli.net/2022/03/25/G3C2rikzAgo9PQf.jpg",
+            avatar: "https://ccviolett-1307804825.cos.ap-shanghai.myqcloud.com/img/QQ图片20220619102435.jpg",
             quote: "\u613F\u4F60\u6210\u4E3A\u81EA\u5DF1\u7684\u592A\u9633\uFF0C\u65E0\u9700\u501F\u52A9\u522B\u4EBA\u7684\u5149\u3002",
             shcool: "\u4E1C\u5317\u5927\u5B66\u79E6\u7687\u5C9B\u5206\u6821",
             imgurl: "https://www.neuq.edu.cn/images/20211129.jpg"
         }),
         React.createElement(Card, {
             name: "\u5F20\u7D2B\u742A",
-            avatar: "https://s2.loli.net/2022/03/25/UqHuzIywDBlWPjC.jpg",
+            avatar: "https://ccviolett-1307804825.cos.ap-shanghai.myqcloud.com/img/QQ图片20220619102445.jpg",
             quote: "\u5982\u679C\u6491\u4F1E\u4E0D\u591F\u8BDA\u610F\uFF0C\u90A3\u6211\u5C31\u6DCB\u96E8\u7231\u4F60",
             shcool: "\u4E1C\u5317\u5927\u5B66\u79E6\u7687\u5C9B\u5206\u6821",
             imgurl: "https://www.neuq.edu.cn/images/20211129zhiyuanting.jpg"
