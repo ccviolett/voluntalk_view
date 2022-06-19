@@ -79,7 +79,7 @@ function CardCollection() {
         <div>
             <Card
                 name="罗潇阳"
-                avatar="https://s2.loli.net/2022/03/25/G3C2rikzAgo9PQf.jpg"
+                avatar="https://ccviolett-1307804825.cos.ap-shanghai.myqcloud.com/img/QQ图片20220619102435.jpg"
                 quote="愿你成为自己的太阳，无需借助别人的光。"
                 shcool="东北大学秦皇岛分校"
                 imgurl="https://www.neuq.edu.cn/images/20211129.jpg"
@@ -87,7 +87,7 @@ function CardCollection() {
 
             <Card
                 name="张紫琪"
-                avatar="https://s2.loli.net/2022/03/25/UqHuzIywDBlWPjC.jpg"
+                avatar="https://ccviolett-1307804825.cos.ap-shanghai.myqcloud.com/img/QQ图片20220619102445.jpg"
                 quote="如果撑伞不够诚意，那我就淋雨爱你"
                 shcool="东北大学秦皇岛分校"
                 imgurl="https://www.neuq.edu.cn/images/20211129zhiyuanting.jpg"
